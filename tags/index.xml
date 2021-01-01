@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on agrawal interiors</title>
-    <link>http://agrawalinteriors.com/tags/</link>
+    <link>https://agrawalinteriors.github.io/tags/</link>
     <description>Recent content in Tags on agrawal interiors</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy 2020 agrawal interiors. All rights reserved.</copyright>
     <lastBuildDate>Sun, 18 Mar 2018 12:13:32 +0530</lastBuildDate>
     
-	<atom:link href="http://agrawalinteriors.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://agrawalinteriors.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Procrastinating</title>
-      <link>http://agrawalinteriors.com/tags/procrastinating/</link>
+      <link>https://agrawalinteriors.github.io/tags/procrastinating/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:32 +0530</pubDate>
       
-      <guid>http://agrawalinteriors.com/tags/procrastinating/</guid>
+      <guid>https://agrawalinteriors.github.io/tags/procrastinating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Space</title>
-      <link>http://agrawalinteriors.com/tags/space/</link>
+      <link>https://agrawalinteriors.github.io/tags/space/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:30 +0530</pubDate>
       
-      <guid>http://agrawalinteriors.com/tags/space/</guid>
+      <guid>https://agrawalinteriors.github.io/tags/space/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Primer</title>
-      <link>http://agrawalinteriors.com/tags/primer/</link>
+      <link>https://agrawalinteriors.github.io/tags/primer/</link>
       <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
       
-      <guid>http://agrawalinteriors.com/tags/primer/</guid>
+      <guid>https://agrawalinteriors.github.io/tags/primer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>todo</title>
-      <link>http://agrawalinteriors.com/tags/todo/</link>
+      <link>https://agrawalinteriors.github.io/tags/todo/</link>
       <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
       
-      <guid>http://agrawalinteriors.com/tags/todo/</guid>
+      <guid>https://agrawalinteriors.github.io/tags/todo/</guid>
       <description></description>
     </item>
     
